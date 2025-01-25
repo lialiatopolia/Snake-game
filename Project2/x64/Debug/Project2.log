@@ -1,0 +1,11 @@
+﻿  const.cpp
+  game_classes.cpp
+  main.cpp
+  record.cpp
+C:\c\itip\Новая папка (3)\Project2\Project2\record.cpp(39,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\c\itip\Новая папка (3)\Project2\Project2\record.cpp(108,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\c\itip\Новая папка (3)\Project2\Project2\record.cpp(141,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  window_classes.cpp
+C:\c\itip\Новая папка (3)\Project2\Project2\window_classes.cpp(143,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Project2.vcxproj -> C:\c\itip\Новая папка (3)\Project2\x64\Debug\Project2.exe
